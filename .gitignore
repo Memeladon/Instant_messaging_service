@@ -1,6 +1,5 @@
 *.vscode/
 *.idea/
 *.local/
-*.pycache/
 
-.env
+*.env
